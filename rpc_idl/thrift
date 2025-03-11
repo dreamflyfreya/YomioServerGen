@@ -1,0 +1,5 @@
+namespace py example
+
+service ExampleService {
+  string sayHello(1: string name)
+}

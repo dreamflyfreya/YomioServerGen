@@ -1,0 +1,11 @@
+# Ignore audios
+# ignore directories
+__pycache__/
+.vscode/
+new_env/
+
+config.py
+
+*.wav
+*.mp3
+*.ipynb

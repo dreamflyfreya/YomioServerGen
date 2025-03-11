@@ -1,0 +1,1 @@
+character_config_list = ["胡桃"]
